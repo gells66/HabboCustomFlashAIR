@@ -1,3 +1,4 @@
 Enabled fixes:
-PublicRoomFix
-CameraFXFix
+
+-PublicRoomFix
+-CameraFXFix
