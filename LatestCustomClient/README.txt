@@ -1,12 +1,15 @@
 Client version: WIN63-202103171926-780586445
 
+Instructions:
+Download and move HabboAir.swf to your client folder (usually %LocalAppData%\Sulake\Habbo Launcher\HabboFlash)
+
 Enabled commands:
-:rotate
-:disco
-:respect
-:clone
-:givegem Amount
-:clubgift ProductName
+:rotate (rotate current room)
+:disco (color-light cycle in current room)
+:respect (give respects to clicked user)
+:clone (clone clicked user look)
+:givegem Amount (give gems to clicked user)
+:clubgift ProductName (pick requested HC gift)
 
 Enabled features:
 -Give star gems from user profile.
