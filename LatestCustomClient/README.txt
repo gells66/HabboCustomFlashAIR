@@ -7,3 +7,7 @@ Enabled commands:
 :clone
 :givegem Amount
 :clubgift ProductName
+
+Enabled features:
+-Give star gems from user profile.
+-Fixed user profile level text.
