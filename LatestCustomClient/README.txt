@@ -18,3 +18,4 @@ Enabled features:
 -Give star gems from user profile.
 -Fixed user profile level text.
 -Furni IDs and MPUs info viewer.
+-Fixed furni chooser items width.
