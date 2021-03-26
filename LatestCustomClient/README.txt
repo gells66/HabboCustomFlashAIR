@@ -10,7 +10,11 @@ Enabled commands:
 :clone (clone clicked user look)
 :givegem Amount (give gems to clicked user)
 :clubgift ProductName (pick requested HC gift)
+:dance (0-4) (change current dance style)
+:roomlink Link (enter room by link)
+:figure FigureCode (change current figure by code)
 
 Enabled features:
 -Give star gems from user profile.
 -Fixed user profile level text.
+-Furni IDs and MPUs info viewer.
