@@ -13,6 +13,8 @@ Enabled commands:
 :dance (0-4) (change current dance style)
 :roomlink Link (enter room by link)
 :figure FigureCode (change current figure by code)
+:calendar (open calendar)
+:linkevent Link (open a linkevent)
 
 Enabled features:
 -Give star gems from user profile.
