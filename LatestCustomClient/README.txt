@@ -22,3 +22,4 @@ Enabled features:
 -Furni IDs and MPUs info viewer.
 -Fixed furni chooser items width.
 -Visit, roomid, chooser, furni and bcfloor commands are now available for all users.
+-Disabled MPUs AdTech
