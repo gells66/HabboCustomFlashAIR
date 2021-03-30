@@ -23,3 +23,4 @@ Enabled features:
 -Fixed furni chooser items width.
 -Visit, roomid, chooser, furni and bcfloor commands are now available for all users.
 -Disabled MPUs AdTech
+-Added crackable furni "Bug" button (WARNING: Experimental feature, you must be 1 square away from the furni)
