@@ -1,4 +1,4 @@
-Client version: WIN63-202103171926-780586445
+Client version: WIN63-202104221206-601649277
 
 Instructions:
-Download and move HabboAir.swf to your client folder (usually %LocalAppData%\Sulake\Habbo Launcher\HabboFlash)
+Download and move HabboAir.swf to your client folder (usually %AppData%\Habbo Launcher\downloads\air\)
