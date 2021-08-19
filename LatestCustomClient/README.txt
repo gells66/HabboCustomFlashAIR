@@ -15,6 +15,7 @@ Enabled commands:
 :figure FigureCode (change current figure by code)
 :calendar (open calendar)
 :linkevent Link (open a linkevent)
+:playing (toggle playing mode)
 
 Enabled features:
 -Give star gems from user profile.
