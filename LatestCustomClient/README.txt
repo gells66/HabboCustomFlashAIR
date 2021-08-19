@@ -16,7 +16,8 @@ Enabled commands:
 :calendar (open calendar)
 :linkevent Link (open a linkevent)
 :playing (toggle playing mode)
-:fx FxCode (change current user fx)
+:fx FxId (change current user fx)
+:handitem ItemId (change current user handitem)
 
 Enabled features:
 -Give star gems from user profile.
