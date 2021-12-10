@@ -1,7 +1,7 @@
 Client version: WIN63-202103171926-780586445
 
 Instructions:
-Download and move HabboAir.swf to your client folder (usually %AppData%\Habbo Launcher\downloads\air\22)
+Download and move HabboAir.swf to your client folder (usually %AppData%\Habbo Launcher\downloads\air\30)
 
 Enabled commands:
 :rotate (rotate current room)
