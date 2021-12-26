@@ -1,0 +1,3 @@
+Enabled fixes:
+
+-PublicRoomFix
