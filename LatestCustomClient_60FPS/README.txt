@@ -18,7 +18,6 @@ Enabled commands:
 :playing (toggle playing mode)
 :fx FxId (change current user fx)
 :handitem ItemId (change current user handitem)
-:ping (get latest ping report)
 :tryclothing (show all available clothing in wardrobe, OPTIONAL argument: ClothingName)
 
 Enabled features:
@@ -30,4 +29,3 @@ Enabled features:
 -Disabled MPUs AdTech
 -Fixed https protocol
 -Disabled flood block
--Ping report interval changed to 10s

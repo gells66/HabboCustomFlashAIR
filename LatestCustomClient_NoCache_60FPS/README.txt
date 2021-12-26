@@ -18,6 +18,7 @@ Enabled commands:
 :playing (toggle playing mode)
 :fx FxId (change current user fx)
 :handitem ItemId (change current user handitem)
+:tryclothing (show all available clothing in wardrobe, OPTIONAL argument: ClothingName)
 
 Enabled features:
 -Give star gems from user profile.
@@ -28,3 +29,4 @@ Enabled features:
 -Disabled MPUs AdTech
 -Fixed https protocol
 -Disabled flood block
+-Disabled external resources disk cache
