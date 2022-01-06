@@ -18,7 +18,7 @@ Enabled commands:
 :playing (toggle playing mode)
 :fx FxId (change current user fx)
 :handitem ItemId (change current user handitem)
-:devwar (test all available clothes)
+:devwar (test all available clothes) (optional: figure can be loaded from clicked user)
 
 Enabled features:
 -Give star gems from user profile.
