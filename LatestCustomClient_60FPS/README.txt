@@ -29,3 +29,4 @@ Enabled features:
 -Disabled MPUs AdTech
 -Fixed https protocol
 -Disabled flood block
+-Fixed zoom-out function (Thanks SulakeJohno)

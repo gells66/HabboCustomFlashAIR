@@ -30,3 +30,4 @@ Enabled features:
 -Fixed https protocol
 -Disabled flood block
 -Disabled external resources disk cache
+-Fixed zoom-out function (Thanks SulakeJohno)

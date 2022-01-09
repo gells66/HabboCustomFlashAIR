@@ -30,3 +30,4 @@ Enabled features:
 -Fixed https protocol
 -Disabled flood block
 -Enabled memenu.effects.widget
+-Fixed zoom-out function (Thanks SulakeJohno)
